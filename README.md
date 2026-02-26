@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Sarika1111mhetre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Sarika 👋
 
-<!---
-Sarika1111mhetre/Sarika1111mhetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Analyst
+📊 Skilled in Power BI, Excel, SQL & Python
+
+💼 Internship Experience
+Data Analytics Intern — TATA Motors Pvt Ltd (Cost Engineering Department)
+* Worked on Cost Estimation & Value Analysis
+* Cleaned and analyzed datasets using MS Excel
+* Created dashboards and supported data-driven decision making
+* Applied data analysis techniques for forecasting
+
+📁 Projects
+- Food Recognition & Calories Estimation Using AI
+- Student Result Analysis
+- Customer Behavior Dashboard
+
+🌱 Currently learning Data Analytics & Visualization
