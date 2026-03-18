@@ -12,8 +12,9 @@ Data Analytics Intern — TATA Motors Pvt Ltd (Cost Engineering Department)
 
 📁 Projects
 - Food Recognition & Calories Estimation Using AI
-- Student Result Analysis https://github.com/Sarika1111mhetre/Student-Result-Analysis
-- Customer Behavior Dashboard https://github.com/Sarika1111mhetre/Customer-Behavior-Dashboard
-- Superstore Sales Analysis Dashboard https://github.com/Sarika1111mhetre/Superstore-Sales-Dashboard-PowerBI
+- SQL Data Analysis - https://github.com/Sarika1111mhetre/SQL-Data-Analysis-Project
+- Student Result Analysis - https://github.com/Sarika1111mhetre/Student-Result-Analysis
+- Customer Behavior Dashboard - https://github.com/Sarika1111mhetre/Customer-Behavior-Dashboard
+- Superstore Sales Analysis Dashboard  - https://github.com/Sarika1111mhetre/Superstore-Sales-Dashboard-PowerBI
 
 🌱 Currently learning Data Analytics & Visualization
